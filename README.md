@@ -16,7 +16,7 @@ This app takes long paragraphs or articles and generates short, meaningful summa
 
  **Open in Streamlit**:-(https://text-summarizer-app-ddu6pjgtpwque3rvt98fsi.streamlit.app)
 
-
+Here is the link, you can access it by pressing on the link.
 
 ---
 
@@ -34,21 +34,6 @@ This app takes long paragraphs or articles and generates short, meaningful summa
 
 
 
----
-
-
-
-**Installation**
-
-
-
-Clone this repository:
-
-```bash
-
-git clone https://github.com/sathvik-web/text-summarizer-app.git
-
-cd text-summarizer-app
 
 
 
